@@ -5,14 +5,14 @@ It is for: a hiring manager
 Focus on: which skills and cities pay the most
 
 FACTS (calculated by code, exact):
-Rows: 12
-Average Monthly Salary (PKR): 360,000
+Rows: 13
+Average Monthly Salary (PKR): 348,462
 Average Days Open: 16
 Highest Monthly Salary (PKR): 560,000 (ML Engineer)
 Lowest Monthly Salary (PKR): 200,000 (Marketing Analyst)
-Average Monthly Salary (PKR) by City: Islamabad 510,000; Lahore 450,000; Remote 290,000; Karachi 274,000
+Average Monthly Salary (PKR) by City: Islamabad 510,000; Lahore 450,000; Remote 290,000; Karachi 263,333
 Average Monthly Salary (PKR) by Main Skill: Machine Learning 520,000; Python 505,000; Product 480,000; SQL 360,000; Power BI 340,000; Prompting 300,000
-Count by City: Karachi 5; Lahore 3; Remote 2; Islamabad 2
+Count by City: Karachi 6; Lahore 3; Remote 2; Islamabad 2
 Count by Main Skill: SQL 2; Python 2; Excel 2; Prompting 1; Machine Learning 1; Google Sheets 1
 
 DATA (columns separated by |):
@@ -29,3 +29,4 @@ Automation Specialist | Indigo Retail | Remote | 280000 | Apps Script | Remote |
 Data Engineer | Jade Finance | Islamabad | 500000 | SQL | Onsite | 27
 Operations Analyst | Kite Commerce | Karachi | 210000 | Excel | Onsite | 11
 ML Engineer | Lumen Systems | Lahore | 560000 | Python | Hybrid | 33
+TAX Consultant | MATH LLC | Karachi | 210000 | Drake | 2026
